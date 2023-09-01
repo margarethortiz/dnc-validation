@@ -7,7 +7,7 @@ async function dncValidation() {
 
     var Client_URL = window.location.href;
       
-      var apiEndpoint = 'https://policybind-workspace.ngrok.io/api/validate-visitor';
+      var apiEndpoint = 'https://srv.workspace.policybind.com/api/validate-visitor';
   
       const response = await fetch(apiEndpoint, {
         method: 'get',
