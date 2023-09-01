@@ -1,7 +1,7 @@
 async function dncValidation() {
-    const apiKey = process.env.API_KEY;
     try {
     var Client_URL = window.location.href;
+    //var Client_URL = "https://healthsubsidyplan.com/v2/"
       var apiEndpoint = 'https://srv.workspace.policybind.com/api/validate-visitor';
       const response = await fetch(apiEndpoint, {
         method: 'get',
