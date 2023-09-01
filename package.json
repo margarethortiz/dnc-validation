@@ -1,19 +1,11 @@
 {
   "name": "@policybind/dnc-validation",
-  "version": "1.0.2",
-  "description": "validate dnc numbers",
+  "version": "1.0.5",
+  "description": "dnc validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/margarethortiz/dnc-validation.git"
-  },
-  "author": "Mortiz",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/margarethortiz/dnc-validation/issues"
-  },
-  "homepage": "https://github.com/margarethortiz/dnc-validation#readme"
+  "author": "mortiz",
+  "license": "ISC"
 }
