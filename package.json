@@ -1,6 +1,6 @@
 {
   "name": "@policybind/dnc-validation",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "dnc validation",
   "main": "index.js",
   "scripts": {
